@@ -50,6 +50,6 @@ This Arduino program allows you to create an iambic Morse code paddle. It genera
 6. The speaker will emit tones corresponding to the Morse code, and the built-in LED will blink in sync with the signals.
 
 ## License
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you see fit.
+This project is open-source and available under the GPL 3.0 License. Feel free to use, modify, and distribute it as you see fit.
 
 ---
