@@ -1,4 +1,4 @@
-# Iambic Morse Code Paddle with Arduino
+# Iambic Morse Code Practice Oscilator with Arduino
 
 ## Overview
 This Arduino program allows you to create an iambic Morse code paddle. It generates Morse code signals using two paddles, a speaker, and an LED on the Arduino board.
