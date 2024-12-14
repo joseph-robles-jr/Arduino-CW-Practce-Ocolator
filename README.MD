@@ -12,7 +12,8 @@ This Arduino program allows you to create an iambic Morse code paddle. It genera
 - Speaker or buzzer
 - LED (optional, for visual indication)
 
-## Wiring Instructions 1. **Push Buttons (Paddles)**: 
+## Wiring Instructions
+1. **Push Buttons (Paddles)**: 
 - **Left Paddle (DIT)**:
  - Connect one terminal of the button to digital pin `2` on the Arduino.
  - Connect the other terminal to ground. - Connect a 10k ohm resistor between digital pin `2` and 5V (pull-up resistor).
