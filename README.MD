@@ -1,5 +1,3 @@
-Certainly! Here's the updated README in markdown format without the code portion:
-
 ### README.md
 
 # Iambic Morse Code Practice Oscillator with Arduino
